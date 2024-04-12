@@ -8,4 +8,4 @@ module.exports = {
     rules: {
       // Add your custom rules here
     },
-  };
+};
